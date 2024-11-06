@@ -17,17 +17,17 @@
 
 `API_HASH` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
 
-`BOT_TOKEN` : Get the bot token from [@Fileshortbot](https://t.me/Fileshortbot)
+`BOT_TOKEN` : Get the bot token from [@Fileshortbot](7867973416:AAHAWnm9LL0cpaFKBVm1ijVDzc6jx83X9Jk)
 `ARCHIVE_CHANNEL_ID` : Create a new channel (https://t.me/wrestlewor), post anything in the channel, forward the post to @Fileshortbot, now copy and paste chat_forward in this field. 
 
-`Bot_Channel_UserName` : [https://t.me/wrestlewor] The UserName of any channel to force users to join it before using the bot, Make sure to make the bot admin in this channel
+`Bot_Channel_UserName` : [Fileshortbot] The UserName of any channel to force users to join it before using the bot, Make sure to make the bot admin in this channel
 
 `Session_String` : [Optional] Use session_generator.py to generate Pyrogram Session String, If you don't add it the bot will create a new session every Restarting.
 
 
 ## How to use the bot
 
-:warning: **Before using the  bot, don't forget to add the bot to the `ARCHIVE_CHANNEL_ID` as an admin**
+:warning: **Before using the  bot, don't forget to add the bot to the `https://t.me/wrestlewor` as an admin**
  
 `/start` : To check if the bot is alive.
 
@@ -42,7 +42,7 @@ To get download and stream links, just forward any file to the bot.
 
 ## Contact me
 
-[![Telegram Channel](https://img.shields.io/static/v1?label=Join&message=Telegram%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/shadow_bots)
+[![Telegram Channel](https://t.me/wrestlewor)](https://t.me/Fileshortbot)
 
 
 You can PM me on [@ooom09](https://telegram.me/ooom09)
