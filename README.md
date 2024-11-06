@@ -17,7 +17,7 @@
 
 `API_HASH` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
 
-`BOT_TOKEN` : Get the bot token from [@@Fileshortbot](https://t.me/Fileshortbot)
+`BOT_TOKEN` : Get the bot token from [@Fileshortbot](https://t.me/Fileshortbot)
 `ARCHIVE_CHANNEL_ID` : Create a new channel (https://t.me/wrestlewor), post anything in the channel, forward the post to @Fileshortbot, now copy and paste chat_forward in this field. 
 
 `Bot_Channel_UserName` : [https://t.me/wrestlewor] The UserName of any channel to force users to join it before using the bot, Make sure to make the bot admin in this channel
